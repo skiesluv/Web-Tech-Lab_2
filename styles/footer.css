@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Cabin&family=Outfit:wght@300;400;500&family=Poppins:wght@200&display=swap");
+
+.footer_web1,
+.footer_web2 {
+  background-color: rgb(119, 119, 119);
+}
+
+.footer_web1 {
+  margin-top: 50px;
+  padding: 50px 0;
+  position: relative;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+}
+.footer_web1 p {
+  text-align: center;
+  color: #fff;
+  margin: 0;
+}
+
+.footer_web2 {
+  margin-top: 50px;
+  padding: 50px 0;
+  position: relative;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+}
+.footer_web2 p {
+  text-align: justify;
+  color: #fff;
+  margin: 0;
+}
+
+.socials {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.soc {
+  border: none;
+  outline: none;
+  text-decoration: none;
+}
+
+.soc-img {
+  width: 25px;
+  height: 25px;
+  border: none;
+  margin-right: 3px;
+}
